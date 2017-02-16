@@ -1,0 +1,3 @@
+[submodule "access_attendance_system"]
+	path = access_attendance_system
+	url = https://github.com/satyaworkspace/access_attendance_system.git
